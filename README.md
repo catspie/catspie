@@ -17,7 +17,9 @@
 - Tools
 
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-ED0086.svg?&style=for-the-badge&logo=IntelliJ&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://howtomakecode.tistory.com/)](https://howtomakecode.tistory.com/)
